@@ -1,27 +1,37 @@
-# Photo Quiz Whiz
+# 📸 Photo Quiz Whiz
 
-A fast, interactive, and visually engaging quiz application built with modern web technologies.
+Live Demo: [quiz-app-mu-six-14.vercel.app](https://quiz-app-mu-six-14.vercel.app)
 
-## 🚀 Project Overview
+Photo Quiz Whiz is a sleek, image-based quiz web app designed to test your visual recognition and memory. Built with modern frontend tools, it's fast, responsive, and easy to extend.
 
-**Photo Quiz Whiz** is a fun and responsive quiz app designed to deliver image-based questions in real-time. It is built using modern frontend tooling and UI frameworks to ensure great performance and ease of development.
+---
 
-## 🔧 Tech Stack
+## 🚀 Features
 
-This project is built using:
+- ✅ Image-based questions
+- ✅ Smooth transitions and fast loading
+- ✅ Responsive design (mobile-friendly)
+- ✅ Easy to customize with clean modular components
+- ✅ Built with performance-first Vite setup
 
-- **React** – Frontend library for building UI
-- **Vite** – Lightning-fast development server and build tool
-- **TypeScript** – Type-safe JavaScript
-- **Tailwind CSS** – Utility-first CSS framework
-- **shadcn/ui** – Accessible and customizable UI components
+---
 
-## 📂 Getting Started
+## 🧱 Tech Stack
 
-To run the project locally:
+- [React](https://react.dev/) – UI Library
+- [Vite](https://vitejs.dev/) – Build tool
+- [TypeScript](https://www.typescriptlang.org/) – Type-safe JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS
+- [shadcn/ui](https://ui.shadcn.dev/) – UI components
 
-### 1. Clone the repository
+---
+
+## 🛠 Getting Started
+
+Clone the repository and run it locally:
 
 ```bash
 git clone https://github.com/Amanthisside/Quiz_App.git
 cd Quiz_App
+npm install
+npm run dev
